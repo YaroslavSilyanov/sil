@@ -582,3 +582,6 @@ if login.exec():
 
 pip install pyinstaller
 pyinstaller --onefile --windowed main.py
+
+
+pip freeze > requirements.txt
