@@ -577,3 +577,8 @@ if login.exec():
     window = MainWindow()
     window.show()
     sys.exit(app.exec())
+
+
+
+pip install pyinstaller
+pyinstaller --onefile --windowed main.py
