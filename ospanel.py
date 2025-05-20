@@ -634,3 +634,22 @@ pip install -r requirements.txt
 
 # Запуск приложения
 python main.py
+
+
+
+
+
+# Перейдите в папку проекта
+
+git init
+
+git add .
+
+git commit -m "Initial commit: базовый функционал приложения"
+
+git remote add origin https://github.com/YaroslavSilyanov/prob
+
+git push -u origin main
+
+# Если ветка называется master:
+git push -u origin master
