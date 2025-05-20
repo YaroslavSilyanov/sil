@@ -645,7 +645,7 @@ git init
 
 git add .
 
-git commit -m "Initial commit: базовый функционал приложения"
+git commit -m "приложение"
 
 git remote add origin https://github.com/YaroslavSilyanov/prob
 
