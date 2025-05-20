@@ -626,8 +626,11 @@ pip freeze > requirements.txt
      - Материалы
      - Пользователи
 
-## Установка
 
-1. Установите зависимости:
+## Быстрый старт
 ```bash
+# Установка зависимостей
 pip install -r requirements.txt
+
+# Запуск приложения
+python main.py
